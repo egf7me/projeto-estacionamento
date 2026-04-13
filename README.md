@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🚀 Projeto inicial - Desenvolvimento de sistemas
 
 Este repositório foi criado para praticar a organização de repositórios.
