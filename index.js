@@ -13,7 +13,7 @@ let opcao;
 // Função para exibir o menu
 function mostrarMenu() {
   console.log("\nMenu");
-  console.log("1 - Entrada");
+  console.log("1 - Entrada de produtos");
   console.log("2 - Saída");
   console.log("3 - Sair do Sistema");
 
